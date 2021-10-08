@@ -14,10 +14,12 @@ Creative drawing, include two geometric figures different than triangles and rec
 We decided to creat a menu in which the image will be redrawn to either have a blue or black sky with a yellow sun or white moon. Right click on the screen and th emenu will appear. We utilized color interpolation with the background, sidewalk, and the ground
 
 ![Problem1_2](/Images/Hw1Problem1Creative_1.PNG)
+
 Day time
 
 
 ![Problem1_2](/Images/Hw1Problem1Creative_2.PNG)
+
 Night time
 
 ## Problem 2 Part 1
@@ -25,11 +27,11 @@ Draw a village of houses utilizing at least the following GL primities (triangle
 
 We decided to create a simple village of houses with two windows, a door, and a triangle roof. We altered the colors on each house. This was very simple compared to the next part
 
-![Problem2_1](/Images/Hw2Problem2.PNG)
+![Problem2_1](/Images/Hw1Problem2.PNG)
 
 ## Problem 2 Part 2
 Creative drawing, which is defined as utilization of drawing primitives, complexity of the houses and the scenery and etc. 
 
 We utilized line stipple to create the divider in the road, we wanted the road to be drawn out into the distance as a triangle (same with the sidewalk). We also wanted to create buildings in the background which is composed of multiple polygons. FInally, we drew a sun, trees, and bushes as circles utlizing a function to draw the shape with 360 points
 
-![Problem2_2](/Images/Hw2Problem2Creative.PNG)
+![Problem2_2](/Images/Hw1Problem2Creative.PNG)
