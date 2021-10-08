@@ -6,3 +6,4 @@ Design a drawing including two geometric figures with solid colors, 2 figures wi
 
 For the masks, we utilized the campfire, fly, and brick masks
 
+![Problem1_1](/Images/Hw1Problem1.jpeg)
