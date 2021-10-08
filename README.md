@@ -32,6 +32,6 @@ We decided to create a simple village of houses with two windows, a door, and a 
 ## Problem 2 Part 2
 Creative drawing, which is defined as utilization of drawing primitives, complexity of the houses and the scenery and etc. 
 
-We utilized line stipple to create the divider in the road, we wanted the road to be drawn out into the distance as a triangle (same with the sidewalk). We also wanted to create buildings in the background which is composed of multiple polygons. FInally, we drew a sun, trees, and bushes as circles utlizing a function to draw the shape with 360 points
+We utilized line stipple to create the divider in the road, we wanted the road to be drawn out into the distance as a triangle (same with the sidewalk). We also wanted to create buildings in the background which is composed of multiple polygons. FInally, we drew a sun, trees, and bushes as circles utlizing a function to draw the shape with 360 points. The grey building on the right was drawn as a triangle fan, first drawing a grey square and then changing the color to white for the background. This was an attempt to make a 2D drawing look 3D
 
 ![Problem2_2](/Images/Hw1Problem2Creative.PNG)
