@@ -1,4 +1,4 @@
-# Computer_Graphics_Homework_1
+# Computer Graphics Homework 1
 First homework in my Computer Graphics class Fall 2021. We made drawings with color interpolation, masks, menus, and drew a village of houses. We created the programs with C++ and utilized OpenGL and GLUT
 
 ## Problem 1 Part 1
