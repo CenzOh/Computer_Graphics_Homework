@@ -1,1 +1,1 @@
-![Problem2_2](/Images/Hw1Problem2Creative.PNG)
+![Problem2_2](/Homework1/Images/Hw1Problem2Creative.PNG)
