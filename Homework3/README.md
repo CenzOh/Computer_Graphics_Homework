@@ -12,8 +12,13 @@ Overall, this was not too difficult to develop, the most challenging aspect was 
 ## Problem 2
 Make a seasonal park tree alley, utilize colors. 
 
-The way I interpreted the question was to create several trees as if they were in a park. Reusing the code for the tree was pretty simple, just move the turtle pointer and draw the tree. I wanted to make each tree look a little different so I modified the code to randomize the sway of the branches.
+The way I interpreted the question was to create several trees as if they were in a park. Reusing the code for the tree was pretty simple, just move the turtle pointer and draw the tree. I wanted to make each tree look a little different so I modified the code to randomize thickness and the sway of the branches.
 
 ![Problem 1_2](/Homework3/Images/3_1_2.PNG)
 
+## Problem 3
+Creativity version, modify the drawLeaf() function to draw a different, more realistic leaf shape.
 
+To achieve this, I took problem 1_1's code and edited the drawLeaf function. I shaped the leaves to kind of look like a tear drop shape, since leaves are shaped similar to that object. Overall, the design came out well. I was not sure how to angle the leaves based on where the branches were.
+
+![Problem_2_1](/Homework3/Images/3_2_1_a.PNG)
