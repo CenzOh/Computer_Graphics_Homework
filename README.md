@@ -18,3 +18,7 @@ Project 1 Problem 1 - 3D House and Car
 ![Problem2](/Project1/Images/p1p2.PNG)
 
 Project 2 Problem 2 - Teapot Matrix
+
+![Problem 2_2](Homework3/Images/3_2_2.PNG)
+
+Homework 3 Problem 2_2 - Creative L-system Tree
