@@ -2,9 +2,23 @@
 The first project utilizes data structures including the functions push() and pop() as well as transformations and lighting.
 
 ## Problem 1
-Given the sample code, fill in the missing statements utilizing push(), pop(), and necessary transformations. Include extra transformations and different colors. As a bonusm include different lighting, shading, and matieral properities. Another bonus is to add enviornmental elements into the scene.
+Given the sample code, fill in the missing statements utilizing push(), pop(), and necessary transformations. Include extra transformations and different colors. As a bonus, include different lighting, shading, and matieral properities. Another bonus is to add enviornmental elements into the scene.
 
-For this problem, I added extra scenary such as trees (cones and rectangles), bushes (spheres), the road (long rectangle) and grass (another massive rectangle). The project required the house (giant cube and cone) as well as the car (rectangle and torus). I added lighting to the top right area of the scene so the light will hit the right side of the house. 
+### Sub Problem 1
+Basic drawing, fill in the missing code. Nothing special
+
+![Problem1_1](/Project1/Images/P1P1_1.PNG)
+
+### Sub Problem 2
+Include three additional transformations to the above program as well as 3 different colors. We made three seperate versions with simple scaling, transformations, and color changes.
+
+![Problem1_2_1](/Project1/Images/P1P1_2_1.PNG)
+
+![Problem1_2_2](/Project1/Images/P1P1_2_2.PNG)
+
+![Problem1_2_3](/Project1/Images/P1_1_2_3.PNG)
+
+For the creative portion of the problem, I added extra scenary such as trees (cones and rectangles), bushes (spheres), the road (long rectangle) and grass (another massive rectangle). The project required the house (giant cube and cone) as well as the car (rectangle and torus). I added lighting to the top right area of the scene so the light will hit the right side of the house. 
 
 I also included another light source on the back left side of the scene, however, I realize it is too difficult to actually see it. I was not sure how to correctly add the shading to the top of the rectangular objects which is why the top of the car and the grass seem just a little unrealistic with the lack of shadows. I will hopefully be able to correct this error in the next assignment.
 
