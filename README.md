@@ -24,6 +24,6 @@ Project 2 Problem 2 - Teapot Matrix
 Homework 3 Problem 2_2 - Creative L-system Tree
 
 ![def_win](/Project2/Images/def_win.PNG)
-![def_spring](/Project2/Images/def_spring.PNG)
+![house_spring](/Project2/Images/house_spring.PNG)
 
 Project 2 - 3D scene
