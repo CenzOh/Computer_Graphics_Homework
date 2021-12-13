@@ -5,13 +5,13 @@ Our final project allows us to demonstrate our udnerstanding of 3D implementatio
 
 ![house_win](/Project2/Images/house_win.PNG)
 
-![street_win](/Project2/Images/def_win.PNG)
+![street_win](/Project2/Images/street_win.PNG)
 
-![def_spring](/Project2/Images/def_win.PNG)
+![def_spring](/Project2/Images/def_spring.PNG)
 
-![house_spring](/Project2/Images/house_win.PNG)
+![house_spring](/Project2/Images/house_spring.PNG)
 
-![street_spring](/Project2/Images/def_win.PNG)
+![street_spring](/Project2/Images/street_win.PNG)
 
 ![menu](/Project2/Images/menu.PNG)
 
