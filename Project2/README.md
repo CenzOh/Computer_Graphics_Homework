@@ -11,7 +11,7 @@ Our final project allows us to demonstrate our udnerstanding of 3D implementatio
 
 ![house_spring](/Project2/Images/house_spring.PNG)
 
-![street_spring](/Project2/Images/street_win.PNG)
+![street_spring](/Project2/Images/street_spring.PNG)
 
 ![menu](/Project2/Images/menu.PNG)
 
