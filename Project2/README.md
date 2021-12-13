@@ -18,7 +18,7 @@ This other perspective faces down the street. We did not want to make the scene 
 
 ![def_spring](/Project2/Images/def_spring.PNG)
 
-At first the scene was designed for a winter season, however, we decided to include a spring season to add to our menu. 
+At first the scene was designed for a winter season, however, we decided to include a spring season to add to our menu. For lighting, the winter scene has the lighting on the right side of the scene while the spring scene has lighting on the left side.
 
 ![house_spring](/Project2/Images/house_spring.PNG)
 
